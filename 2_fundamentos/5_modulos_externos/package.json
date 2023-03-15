@@ -1,0 +1,14 @@
+{
+  "name": "5_modulos_externos",
+  "version": "1.0.0",
+  "description": "Estudos sobre npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Henrique",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
